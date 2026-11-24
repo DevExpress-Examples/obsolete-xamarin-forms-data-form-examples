@@ -1,18 +1,9 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/314486701/22.1.3%2B)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
-<!-- default badges end -->
-Examples:
+# DevExpress Data Form for Xamarin.Forms - Examples
 
-- [Getting Started](./CS/GettingStarted)  
-- [Add a Custom Editor and Change Data Form Appearance](./CS/CustomAppearance) 
-- [Add Editors at Runtime](./CS/DynamicEditors) 
-- [Specify Combo Box Items](./CS/ComboBoxEditor)
-<!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+⛔ DEPRECATED. Microsoft ended support for Xamarin on May 1, 2024. This example is no longer maintained, and the repository is archived.
 
-[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xamarin-forms-data-form-examples&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xamarin-forms-data-form-examples&~~~was_helpful=no)
+For up-to-date examples, refer to the .NET MAUI version: [DevExpress Data Form for .NET MAUI](https://github.com/DevExpress-Examples/maui-data-form).
 
-(you will be redirected to DevExpress.com to submit your response)
-<!-- feedback end -->
+To migrate an existing Xamarin.Forms application to .NET MAUI, see [Migration from Xamarin.Forms to .NET MAUI](https://docs.devexpress.com/MAUI/403988/xamarin).
+
+If you need additional guidance, submit a ticket in the [DevExpress Support Center](https://supportcenter.devexpress.com/ticket/create).
